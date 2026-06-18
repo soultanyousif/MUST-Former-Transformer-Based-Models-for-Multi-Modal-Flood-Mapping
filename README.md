@@ -38,7 +38,7 @@ MUST-Former provides five model variants covering three input configurations:
 | MUST-Former-CrossAttn | 0.7719 | 0.8647 |
 | **MUST-Former-PCA** | **0.8205** | **0.8932** |
 
-
+- For Qualitative results check Qualitative results/Qualitative results.png
 
 ### Benchmark Comparisons
 
