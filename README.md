@@ -38,6 +38,9 @@ MUST-Former provides five model variants covering three input configurations:
 | MUST-Former-CrossAttn | 0.7719 | 0.8647 |
 | **MUST-Former-PCA** | **0.8205** | **0.8932** |
 
+![Uploading Qualitative results.png…]()
+
+
 ### Benchmark Comparisons
 
 **SAR vs. Baseline**
@@ -183,19 +186,7 @@ MODEL_CONFIGS = {
 If you use this code or the MUST-Former models in your research, please cite:
 
 ```bibtex
-@inproceedings{mustformer2026ieee,
-  title={Efficient Transformer Architecture Outperforms Foundation Models for Satellite-Based Flood Detection},
-  booktitle={IEEE 3rd International Conference on Smart Sustainable Computational and Engineering Applications (3SCEA)},
-  year={2026},
-  organization={IEEE}
-}
-
-@article{mustformer2026intartif,
-  title={MUST-Former: A Family of Transformer-Based Models for Robust Multi-Modal Flood Mapping from Satellite Data},
-  journal={Inteligencia Artificial, Iberoamerican Society of Artificial Intelligence},
-  year={2026},
-  publisher={IBERAMIA}
-}
+will be added soon
 ```
 
 Additionally, cite the underlying datasets and backbone:
