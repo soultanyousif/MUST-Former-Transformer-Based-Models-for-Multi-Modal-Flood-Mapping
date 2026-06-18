@@ -124,6 +124,8 @@ Regional Heatmap/regional_heatmaps.png
 
 All variants use the **SegFormer MiT-B2** encoder (NVIDIA) with an MLP decoder head. Pre-trained ImageNet weights are used for the encoder.
 
+- Docker will be added soon 
+
 ## Installation
 
 ```bash
