@@ -38,7 +38,33 @@ MUST-Former provides five model variants covering three input configurations:
 | MUST-Former-CrossAttn | 0.7719 | 0.8647 |
 | **MUST-Former-PCA** | **0.8205** | **0.8932** |
 
-- For Qualitative results check Qualitative results/Qualitative results.png
+
+
+## Visualizations
+
+### Qualitative Results
+
+For qualitative segmentation results on the Sen1Floods11 Test Split, see:
+
+```
+Qualitative results/Qualitative results.png
+```
+
+### Confusion Matrices
+
+For per-model confusion matrices, see:
+
+```
+confusion matrix/confusion_matrices.png
+```
+
+### Regional Performance Heatmaps
+
+For performance of the 5 models across all geographic regions, see:
+
+```
+Regional Heatmap/regional_heatmaps.png
+```
 
 ### Benchmark Comparisons
 
