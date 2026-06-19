@@ -6,13 +6,13 @@ A family of transformer-based architectures for robust flood detection from Sent
 
 MUST-Former provides five model variants covering three input configurations:
 
-| Model | Input | Fusion Strategy | Parameters |
-|-------|-------|-----------------|------------|
-| MUST-Former-SAR | Sentinel-1 (VV, VH) | -- | ~25.5M encoder |
-| MUST-Former-Optical | Sentinel-2 (13 bands + NDVI/NDWI) | -- | ~27.35M |
-| MUST-Former-Projector | SAR + Optical | Additive 1x1 conv projection | ~25.5M encoder |
-| MUST-Former-CrossAttn | SAR + Optical | Bi-directional cross-attention | ~25.5M encoder |
-| MUST-Former-PCA | SAR + Optical | Channel standardization + projection | ~25.5M encoder |
+| Model | Input | Fusion Strategy |
+|-------|-------|-----------------|
+| MUST-Former-SAR | Sentinel-1 (VV, VH) | -- |
+| MUST-Former-Optical | Sentinel-2 (13 bands + NDVI/NDWI) | -- |
+| MUST-Former-Projector | SAR + Optical | Additive 1x1 conv projection |
+| MUST-Former-CrossAttn | SAR + Optical | Bi-directional cross-attention |
+| MUST-Former-PCA | SAR + Optical | Channel standardization + projection |
 
 > **Note:** MUST stands for **Misr University for Science and Technology**. Former refers to the transformer architecture.
 
