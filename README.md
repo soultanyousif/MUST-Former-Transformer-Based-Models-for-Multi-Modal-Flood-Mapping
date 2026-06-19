@@ -14,7 +14,7 @@ MUST-Former provides five model variants covering three input configurations:
 | MUST-Former-CrossAttn | SAR + Optical | Bi-directional cross-attention |
 | MUST-Former-PCA | SAR + Optical | Channel standardization + projection |
 
-> **Note:** MUST stands for **Misr University for Science and Technology**. Former refers to the transformer architecture.
+> **Note:** MUST stands for **Misr University for Science and Technology** https://must.edu.eg/ . Former refers to the transformer architecture.
 
 ## Key Results
 
