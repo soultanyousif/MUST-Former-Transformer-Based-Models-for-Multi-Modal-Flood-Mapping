@@ -213,8 +213,16 @@ MODEL_CONFIGS = {
 If you use this code or the MUST-Former models in your research, please cite:
 
 ```bibtex
-will be added soon
+Will be added soon, 2 papers are on their way!
+1- IEEE https://ufe.edu.eg/3scea2026/: It's accepted, and we are only waiting for the proceedings
+title: Efficient Transformer Architecture Outperforms Foundation Models for Satellite-Based Flood Detection
+2- THE Q2 Spanish journal Inteligencia Artificial https://journal.iberamia.org/index.php/intartif/index : our paper is accepted we minor revision
+Title:MUST-Former: A Family of Transformer-Based Models for Robust Multi-Modal Flood Mapping from Satellite Data.
 ```
+<img width="590" height="763" alt="image" src="https://github.com/user-attachments/assets/ad83b667-6f6f-497a-80c2-36a78df0dae5" />
+
+<img width="1061" height="345" alt="image" src="https://github.com/user-attachments/assets/5c6a7ca8-dba1-47d8-b07a-901952411178" />
+
 
 Additionally, cite the underlying datasets and backbone:
 
