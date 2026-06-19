@@ -3,8 +3,10 @@
 A family of transformer-based architectures for robust flood detection from Sentinel-1 (SAR) and Sentinel-2 (optical) satellite imagery, built on the SegFormer backbone. This repository contains the official implementation and training code for the MUST-Former models evaluated on the Sen1Floods11 dataset.
 
 This Project was done in collaboration with Narss - National Authority For Remote Sensing & Space Sciences in Egypt 
-Website: https://www.narss.sci.eg/news/the-national-authority-for-remote-sensing-and-space-sciences-organizes-scientific-visits-for-students-of-higher-and-intermediate-institutes
-LinkedIn: https://www.linkedin.com/company/narss/posts/?feedView=all
+
+- Website: https://www.narss.sci.eg/news/the-national-authority-for-remote-sensing-and-space-sciences-organizes-scientific-visits-for-students-of-higher-and-intermediate-institutes
+
+- LinkedIn: https://www.linkedin.com/company/narss/posts/?feedView=all
 
 ## Overview
 
